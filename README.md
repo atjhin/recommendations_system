@@ -1,4 +1,4 @@
-# recommendations_system
+# Song recommendations system
 
 ## Description
 The goal of this project is to create an app where you can input a particular song and determine which of my playlist would this song belong to. As an avid music enjoyer, I am interested in exploring how statistical models and concepts can understand our music taste by analyzing the music's different features.
