@@ -1,0 +1,5 @@
+config.json
+.gitignore
+__pycache__
+.cache
+.ipynb_checkpoints
